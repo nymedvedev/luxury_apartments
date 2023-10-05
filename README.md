@@ -13,13 +13,13 @@ The header of the site contains links to all apartments, apartment reviews, comp
 
 The content part contains images and brief descriptions of rental properties (prices are indicated), the "all apartments" button, two user reviews, the "all reviews" button.
 
-<img src="https://github.com/nymedvedev/luxury_apartments_project/blob/main/images/screenshots/screenshot_site_1.png?raw=true" alt="Top of the page" width="1024" height="459">
+<img src="https://github.com/nymedvedev/luxury_apartments_project/blob/main/images/screenshots/screenshot_site_1.png?raw=true" alt="Top of the page">
 
 The basement part duplicates the main menu from the header, and also contains a physical address, buttons-links to social networks, and legal links.
 
 All icons and logos, as well as photos of apartments are made using sprites.
 
-<img src="https://github.com/nymedvedev/luxury_apartments_project/blob/main/images/screenshots/screenshot_site_2.png?raw=true" alt="Top of the page" width="1024" height="479">
+<img src="https://github.com/nymedvedev/luxury_apartments_project/blob/main/images/screenshots/screenshot_site_2.png?raw=true" alt="Top of the page">
 
 
 ### Built With
