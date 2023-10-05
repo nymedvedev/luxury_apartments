@@ -1,11 +1,11 @@
 <div align="center">
-<h1>Luxury apartments Project</h1>
+<h1>Luxury apartments Website</h1>
     <p>My first website - for renting luxury apartments in St. Petersburg.</p>
 </div>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Website
 
 <p>The purpose of this work was to <b>create a 1 in 1 website based on the <a href="https://github.com/nymedvedev/luxury_apartments_project/blob/main/template%20-%20homepage.jpg?raw=true" alt="Template">template</a></b> (that you can view in the file list of repo).</p>
 
