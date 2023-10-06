@@ -46,7 +46,7 @@ Nikolay Medvedev - Telegram: @ny_medvedev - medvedev.ny@gmail.com
 
 <b>Luxury_apartments</b> © [Medvedev Nikolay](https://github.com/nymedvedev)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">вверх</a>)</p>
 
 <br />
 <br />
