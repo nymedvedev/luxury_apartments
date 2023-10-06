@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <div align="center">
 <h1>Luxury apartments Website</h1>
     <p>My first website - for renting luxury apartments in St. Petersburg.</p>
@@ -21,6 +22,7 @@ All icons and logos, as well as photos of apartments are made using sprites.
 
 <img src="https://github.com/nymedvedev/luxury_apartments_project/blob/main/images/screenshots/screenshot_site_2.png?raw=true" alt="Top of the page">
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -38,5 +40,9 @@ Project Link: [https://github.com/nymedvedev/dom_u_morya](https://github.com/nym
 
 [HTML-url]: https://html.com/html5/
 [CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
+
+## [License](https://github.com/nymedvedev/luxury_apartments/blob/main/LICENSE.md)
+
+<b>Luxury_apartments</b> © [Medvedev Nikolay](https://github.com/nymedvedev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
